@@ -1,0 +1,5 @@
+# CD generated output
+output/
+
+# Mustache rendering for testing
+tmp/
